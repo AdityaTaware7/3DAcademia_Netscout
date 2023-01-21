@@ -17,3 +17,5 @@
 ### Make sure while installing the APK allow third-party app installation in your phones/mobiles.
 
 ## You can run and test the app on NCERT Biology 11th Textbook Chapter 8 "The Unit Of Life".
+
+### Link for the textbook: https://schools.aglasem.com/ncert-books-class-11-biology-chapter-8/
