@@ -11,3 +11,9 @@
 ## Download the APK
 
 ### Link for APK: https://drive.google.com/file/d/1rzJkJR2a2Vz7FZB-vju02tVjEEG2Ohfn/view?usp=sharing
+
+## Install the APK
+
+### Make sure while installing the APK allow third-party app installation in your phones/mobiles.
+
+### You can run and test the app on NCERT Biology 11th Textbook Chapter 8 "The Unit Of Life".
